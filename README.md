@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Sankt Bhat 
+I am Sanket Bhat 
 
 I am passionate about building products 
 
