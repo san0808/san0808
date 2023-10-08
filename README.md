@@ -1,21 +1,44 @@
-### Hi there 👋
+# Hello there! 👋 I'm Sanket Bhat
 
-I am Sanket Bhat 
+📍 **Location**: Goa, India  
+🎓 **Education**: Studying at NIT GOA (2020-2024)  
+🌐 **Working**: Engineer Intern at FASTHR AI
 
-I am passionate about building products 
+![Profile views](https://gpvc.arturio.dev/san0808)  
 
-[![Peerlist](https://github-readme-badge.peerlist.io/api/sanketbhat)](https://peerlist.io/sanketbhat)
-<!--
-**san0808/san0808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Professional Overview
 
-Here are some ideas to get you started:
+I have a passion for automation - from browser automation to repetitive task solving. My unique strength lies in my capability to work seamlessly on both frontend and backend while crafting projects. Here's a brief about my expertise:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 **Frontend**: Nextjs, React
+- 🖥 **Backend**: Expressjs, Nodejs, FastAPI, Django
+- 🛠 **Tools & Languages**: Python, JavaScript, Selenium, MongoDB APIs
+
+## 📚 Hobbies & Interests
+
+When I'm not coding, you'll find me:
+- ✍️ Writing
+- 📖 Reading novels
+- 🍕 Enjoying delicious food
+- 🎌 Watching anime
+
+## 📈 GitHub Stats
+
+![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=san0808&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=san0808&layout=compact)  
+
+## 🙌 Personal Quote
+
+> "Learning is all about observing and absorbing others, Mastery is all about adding your flavor to it."
+
+## 📬 Get in Touch
+
+- **LinkedIn**: [Sanket Bhat](https://www.linkedin.com/in/sanket-bhat-286a1a1b7/)
+- **Email**: [sanketbhat882002@gmail.com](mailto:sanketbhat882002@gmail.com)
+- **Blogs**: [Medium](https://medium.com/@diaryofsankey)
+
+---
+
+Thank you for stopping by my profile! Don't forget to check out my repositories and give them a ⭐ if you find them useful!
+
