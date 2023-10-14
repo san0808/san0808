@@ -12,7 +12,7 @@ I have a passion for automation - from browser automation to repetitive task sol
 - 🖥 **Backend**: Expressjs, Nodejs, FastAPI, Django
 - 🛠 **Tools & Languages**: Python, JavaScript, Selenium, MongoDB APIs
 
-- recently ahve been working more on LLMs and diffusion models and exploring in the field of generative AI and NLP
+- recently have been working more on LLMs and diffusion models and exploring in the field of generative AI and NLP
 
 ## 📚 Hobbies & Interests
 
