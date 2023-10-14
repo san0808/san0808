@@ -4,8 +4,6 @@
 🎓 **Education**: Studying at NIT GOA (2020-2024)  
 🌐 **Working**: Engineer Intern at FASTHR AI
 
-![Profile views](https://gpvc.arturio.dev/san0808)  
-
 ## 💼 Professional Overview
 
 I have a passion for automation - from browser automation to repetitive task solving. My unique strength lies in my capability to work seamlessly on both frontend and backend while crafting projects. Here's a brief about my expertise:
@@ -13,6 +11,8 @@ I have a passion for automation - from browser automation to repetitive task sol
 - 🌐 **Frontend**: Nextjs, React
 - 🖥 **Backend**: Expressjs, Nodejs, FastAPI, Django
 - 🛠 **Tools & Languages**: Python, JavaScript, Selenium, MongoDB APIs
+
+- recently ahve been working more on LLMs and diffusion models and exploring in the field of generative AI and NLP
 
 ## 📚 Hobbies & Interests
 
