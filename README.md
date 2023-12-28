@@ -2,7 +2,7 @@
 
 📍 **Location**: Goa, India  
 🎓 **Education**: Studying at NIT GOA (2020-2024)  
-🌐 **Working**: Engineer Intern at FASTHR AI
+🌐 **Working**: Engineer Intern at Stimuler
 
 ## 💼 Professional Overview
 
