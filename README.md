@@ -2,17 +2,20 @@
 
 📍 **Location**: Goa, India  
 🎓 **Education**: Studying at NIT GOA (2020-2024)  
-🌐 **Working**: Engineer Intern at Stimuler
+🌐 **Working**: Engineer at Stimuler
 
 ## 💼 Professional Overview
 
 I have a passion for automation - from browser automation to repetitive task solving. My unique strength lies in my capability to work seamlessly on both frontend and backend while crafting projects. Here's a brief about my expertise:
 
-- 🌐 **Frontend**: Nextjs, React
-- 🖥 **Backend**: Expressjs, Nodejs, FastAPI, Django
-- 🛠 **Tools & Languages**: Python, JavaScript, Selenium, MongoDB APIs
+- 🌐 **Frontend**: Next.js, React.js, TailwindCSS  
+- 🖥 **Backend**: Express.js, FastAPI, Flask, Firebase  
+- 🛠 **Tools & Languages**: Python, JavaScript, SQL, Bash, Selenium, Chrome Extensions, MongoDB, PostgreSQL, Firebase Realtime Database, RESTful APIs, OAuth2  
+- ☁️ **Cloud & DevOps**: Google Cloud Platform (GCP), Microsoft Azure, Git, GitHub  
+- 🧠 **AI/ML**: Prompt Engineering, NLP, RAG, LLMs, Fine-tuning  
+- 🏆 **Soft Skills**: Writing, Structured Thinking, Curiosity, Problem-Solving  
 
-- recently have been working more on LLMs and diffusion models and exploring in the field of generative AI and NLP
+- These days working more on LLMs and diffusion models and exploring in the field of generative AI and NLP
 
 ## 📚 Hobbies & Interests
 
