@@ -1,87 +1,43 @@
-# 👋 Hey there! I’m Sanket Bhat
+# Sanket Bhat
 
-📍 **Location:** Goa, India  
-🎓 **Education:** B.Tech, NIT Goa (2020–2024)  
-💼 **Previously:** AI Engineer @ Stimuler | AI Intern @ Fasthr.ai
+AI engineer building real-time voice agents at [Bolna](https://bolna.ai). I work on the speech-to-speech pipeline end to end: ASR, LLM, TTS, telephony, and the latency and reliability work that decides whether a phone call feels human.
 
----
+Bengaluru, India. B.Tech, NIT Goa (2020-2024).
 
-## 🔧 What I Do
+## Now: Bolna (Sep 2025 - present)
 
-I’m passionate about building intelligent systems that automate tasks—from browser workflows to NLP pipelines and LLM-driven apps. My strength is developing complete solutions, seamlessly integrating frontend and backend.
+Bolna is a voice AI platform running production phone agents at scale. Its core framework, [bolna-ai/bolna](https://github.com/bolna-ai/bolna), is open source, and I have merged 290+ PRs into it.
 
-- **Frontend**: Next.js, React, TailwindCSS  
-- **Backend**: FastAPI, Flask, Express.js  
-- **Languages & Tools**: Python, JavaScript, SQL, Bash, Selenium, Chrome Extensions  
-- **Databases & APIs**: MongoDB, PostgreSQL, Firebase, REST APIs, OAuth2  
-- **Cloud & DevOps**: GCP, Azure, AWS, Docker, Kubernetes, GitHub Actions  
-- **AI/ML**: Prompt Engineering, RAG Pipelines, Fine‑tuning LLMs, Diffusion Models, NLP  
-- **Soft Skills**: Writing, Structured Thinking, Curiosity, Problem‑Solving  
+- **Speech providers.** Integrated and maintain ASR and TTS providers across Deepgram, Azure, ElevenLabs, Cartesia, Sarvam, Soniox, Gemini and others, including Indic-language support for multilingual agents.
+- **Latency.** Per-turn latency instrumentation across the transcriber, LLM and synthesizer, and the turn-detection, endpointing and barge-in work that sits on top of it.
+- **Model evaluation.** Benchmark harnesses for picking ASR and LLM models on real call audio and transcripts, plus ASR fine-tuning experiments measured against off-the-shelf providers.
+- **Graph agents.** Routing, prompt caching and tool calling for multi-node conversational agents.
+- **Production reliability.** Debugging live-call failures across the WebSocket server, telephony providers and the platform backend.
 
-🔬 **Recent highlights**:
-- Built scalable AI solutions at Stimuler.
-- Developed internal tools for automation and AI assistance at Fasthr.ai.
-- Actively exploring generative AI (RAG, diffusion models).
+Stack: Python, asyncio, FastAPI, WebSockets, PostgreSQL, Redis, React, TypeScript.
 
----
+## Before
 
-## 📈 Career Journey
+**Software Engineer, Stimuler** (Dec 2023 - May 2025, Bengaluru)
+FastAPI backends on AWS ECS, real-time WebSocket streaming for an AI speaking coach, RAG pipelines that lifted session engagement 15%, and fine-tuned GPT-2 and BERT models for language scoring.
 
-### Software Engineer | Stimuler
-**Dec 2023 – May 2025, Bengaluru**
+**AI Solution Engineer Intern, Fasthr.ai** (Jul 2023 - Nov 2023, Remote)
+Data scraping pipelines, an AI Chrome extension for live interview notes, and OAuth2 auth flows.
 
-- Engineered scalable FastAPI backends on AWS (ECS, EC2 auto-scaling).
-- Implemented real-time WebSocket streaming for AI responsiveness.
-- Built RAG pipelines enhancing user sessions by 15%.
-- Fine-tuned GPT-2 and BERT models for NLP tasks and language scoring.
+## Side projects
 
-### AI Solution Engineer Intern | Fasthr.ai
-**Jul 2023 – Nov 2023, Remote**
+- [diary-of-sankey](https://github.com/san0808/diary-of-sankey): Notion-powered blog engine behind my writing.
+- [RiverBank-AI-Debt-Collection-Agent](https://github.com/san0808/RiverBank-AI-Debt-Collection-Agent): outbound voice agent on LiveKit with a self-correction loop.
+- [lilyduo](https://github.com/san0808/lilyduo): conversational video-call tutor prototype with live audio and natural turn-taking.
+- [CP-recommender](https://github.com/san0808/CP-recommender): competitive programming coach with skill analysis and semantic problem search.
 
-- Built end-to-end data scraping pipelines (Apollo automation).
-- Designed AI-powered Chrome extensions for real-time interview note-taking.
-- Implemented backend authentication and OAuth2 flows.
+## Writing and elsewhere
 
-📘 **Alumnus** of NIT Goa (2020–2024).
+I write at [Diary of Sankey](https://blog.devsanket.com/). Outside code: novels, anime, and trying new cuisines.
 
----
+- Site: [devsanket.com](https://devsanket.com)
+- LinkedIn: [Sanket Bhat](https://www.linkedin.com/in/sanket-bhat-286a1a1b7/)
+- X: [@SanketBhat11](https://x.com/SanketBhat11)
+- Email: [sanketbhat882002@gmail.com](mailto:sanketbhat882002@gmail.com)
 
-## 🌱 What Drives Me
-
-- 🎯 Automating repetitive workflows.
-- 🧠 Full-stack engineering from UI to deployment.
-- 🌍 Generative AI, intelligent agents, and diffusion models.
-- ✍️ Writing tech blogs on productivity and engineering insights.
-
----
-
-## 📚 Passions Beyond Code
-
-- Writing at [Diary of Sankey](https://blog.devsanket.com/).  
-- Reading novels 📖.
-- Anime and exploring diverse cuisines 🍜.
-
----
-
-## 💬 My Philosophy
-
-> “Learning is observing and absorbing. Mastery is adding your unique flavor.”
-
----
-
-## 📊 GitHub Highlights
-
-![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=san0808&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=san0808&layout=compact)
-
----
-
-## 📫 Let’s Connect
-
-- **LinkedIn**: [Sanket Bhat](https://www.linkedin.com/in/sanket-bhat-286a1a1b7/)  
-- **Email**: [sanketbhat882002@gmail.com](mailto:sanketbhat882002@gmail.com)  
-- **Blog**: [Diary of Sankey](https://blog.devsanket.com/)
-
----
-
-✨ Thanks for stopping by! Feel free to explore my projects and leave a ⭐ if you like what you find!
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=san0808&show_icons=true&theme=tokyonight&hide_border=true)
