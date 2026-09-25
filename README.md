@@ -26,10 +26,9 @@ Data scraping pipelines, an AI Chrome extension for live interview notes, and OA
 
 ## Side projects
 
+- [penscript](https://github.com/san0808/penscript): minimalist native Linux writing app in Rust and GTK, inspired by Freewrite.
 - [diary-of-sankey](https://github.com/san0808/diary-of-sankey): Notion-powered blog engine behind my writing.
-- [RiverBank-AI-Debt-Collection-Agent](https://github.com/san0808/RiverBank-AI-Debt-Collection-Agent): outbound voice agent on LiveKit with a self-correction loop.
-- [lilyduo](https://github.com/san0808/lilyduo): conversational video-call tutor prototype with live audio and natural turn-taking.
-- [CP-recommender](https://github.com/san0808/CP-recommender): competitive programming coach with skill analysis and semantic problem search.
+- [commitcraft](https://github.com/san0808/commitcraft): fast CLI that writes conventional commit messages with an LLM.
 
 ## Writing and elsewhere
 
