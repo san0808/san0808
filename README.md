@@ -1,18 +1,18 @@
 # Sanket Bhat
 
-AI engineer building real-time voice agents at [Bolna](https://bolna.ai). I work on the speech-to-speech pipeline end to end: ASR, LLM, TTS, telephony, and the latency and reliability work that decides whether a phone call feels human.
+AI engineer at [Bolna](https://bolna.ai), where I own the voice agent system end to end: the real-time pipeline that listens, thinks and speaks, and the call experience a person on the other end of the line actually hears.
 
 Bengaluru, India. B.Tech, NIT Goa (2020-2024).
 
 ## Now: Bolna (Sep 2025 - present)
 
-Bolna is a voice AI platform running production phone agents at scale. Its core framework, [bolna-ai/bolna](https://github.com/bolna-ai/bolna), is open source, and I have merged 290+ PRs into it.
+Bolna runs production AI phone agents at scale. Its core framework, [bolna-ai/bolna](https://github.com/bolna-ai/bolna), is open source, and I have merged 290+ PRs into it.
 
-- **Speech providers.** Integrated and maintain ASR and TTS providers across Deepgram, Azure, ElevenLabs, Cartesia, Sarvam, Soniox, Gemini and others, including Indic-language support for multilingual agents.
-- **Latency.** Per-turn latency instrumentation across the transcriber, LLM and synthesizer, and the turn-detection, endpointing and barge-in work that sits on top of it.
-- **Model evaluation.** Benchmark harnesses for picking ASR and LLM models on real call audio and transcripts, plus ASR fine-tuning experiments measured against off-the-shelf providers.
-- **Graph agents.** Routing, prompt caching and tool calling for multi-node conversational agents.
-- **Production reliability.** Debugging live-call failures across the WebSocket server, telephony providers and the platform backend.
+- **Voice pipeline.** Own the speech-to-speech stack from telephony audio in to synthesized speech out, across ASR, LLM and TTS, and the provider layer that lets agents mix and switch models.
+- **Call experience.** Latency, turn-taking and interruptions: the details that decide whether a call feels like talking to a person or to a machine.
+- **Models and evaluation.** Decide which models run in production by measuring them on real calls, and push past off-the-shelf where it pays off.
+- **Agent intelligence.** Multi-step conversational agents that follow a flow, call tools and stay on track over long calls.
+- **Reliability.** Keep live calls healthy at scale, from the WebSocket servers through telephony and the platform backend.
 
 Stack: Python, asyncio, FastAPI, WebSockets, PostgreSQL, Redis, React, TypeScript.
 
