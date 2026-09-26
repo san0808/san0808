@@ -1,6 +1,6 @@
 # Sanket Bhat
 
-AI engineer at [Bolna](https://bolna.ai), where I own the voice agent system end to end: the real-time pipeline that listens, thinks and speaks, and the call experience a person on the other end of the line actually hears.
+Tech lead at [Bolna](https://bolna.ai), where I own the voice agent system end to end: the real-time pipeline that listens, thinks and speaks, and the call experience a person on the other end of the line actually hears.
 
 Bengaluru, India. B.Tech, NIT Goa (2020-2024).
 
